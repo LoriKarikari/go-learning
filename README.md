@@ -1,6 +1,6 @@
-# Learn Go
+# Learning Go
 
-Welcome to my personal Go learning journey repository! This repository is a collection of exercises and projects that I've created while learning the Go programming language. It serves as a record of my progress and showcases the skills and knowledge I've gained throughout my Go learning experience.
+This repository is a collection of exercises and projects that I've created while learning the Go programming language. It serves as a record of my progress and showcases the skills and knowledge I've gained throughout my Go learning experience.
 
 ## Learning Resources
 
